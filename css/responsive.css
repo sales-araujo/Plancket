@@ -10,6 +10,10 @@
         align-self: initial;
         margin-top: 0;
     }
+
+    .logo-marca {
+        margin-top: 12rem;
+    }
 }
 
 @media only screen and (max-width: 480px) {
